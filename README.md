@@ -15,4 +15,7 @@ A Python script to fetch image URLs for any entity (not just animals) and update
 
 ```bash
 git clone https://github.com/your-username/ImageFetcher.git
-cd ImageFetcher
+
+cd Image-URL-s-Pixel-Fetcher
+
+pip install requests
